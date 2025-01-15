@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Iam instructor
+=======
+Hello to ITI BNS branch
+>>>>>>> cc40e09f292b5aa9872b12ff47fbaf1fb6ce6e95
